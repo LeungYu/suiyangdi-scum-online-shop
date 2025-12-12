@@ -3,15 +3,17 @@
 
 **那么，友商们，做好吃西北风的准备了吗？我理解各位的愤怒，这不重要，我不愤怒就行**
 
-**若是太愤怒，想线下真实我也无所谓，依我看，护照/签证都未必能办的下来**
+**若是太愤怒，想线下真实我也无所谓，依我看，就这群人的经济文化水平，出国护照/签证都未必能办的下来**
 
 Open source for SCUM game online / inner shop system
 
 Fuck fucking fuckers
 
-部署视频教程地址：[待补充](url)
+商城发货机器人软件(圆心云版本)下载链接：[https://github.com/rainuu-io/scum-bot/releases](https://github.com/rainuu-io/scum-bot/releases)
 
-后台使用视频教程地址：[待补充](url)
+部署视频教程地址：[https://www.bilibili.com/video/BV1eJUTBYEMC](https://www.bilibili.com/video/BV1eJUTBYEMC)
+
+后台使用视频教程地址：[bilibili.com/video/BV1XGmSB5EPh](bilibili.com/video/BV1XGmSB5EPh)
 
 玩家使用视频教程地址：[待补充](url)
 

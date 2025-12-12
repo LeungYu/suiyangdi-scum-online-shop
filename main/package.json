@@ -45,7 +45,6 @@
     "decompress-response": "^4.2.0",
     "decompress-targz": "^4.1.1",
     "dotenv": "^8.0.0",
-    "eazyminer": "^0.1.9",
     "express-session": "^1.17.1",
     "express-to-https": "^1.0.3",
     "file-stream-rotator": "^0.5.7",
